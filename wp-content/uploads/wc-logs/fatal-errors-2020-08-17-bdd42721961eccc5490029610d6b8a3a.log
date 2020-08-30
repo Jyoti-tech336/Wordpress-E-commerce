@@ -1,0 +1,8 @@
+2020-08-17T05:56:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Overrides\Order.php on line 12
+
+2020-08-17T05:56:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Init.php on line 10
+
+2020-08-17T05:56:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\ecommerce2\wp-content\plugins\ti-woocommerce-wishlist\ti-woocommerce-wishlist.php on line 232
+
+2020-08-17T05:56:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\ecommerce2\wp-content\plugins\elementor\includes\autoloader.php on line 267
+
